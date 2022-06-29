@@ -1,0 +1,11 @@
+C:\Users\usufm\Desktop\Testing_1\testinglib\bin\Debug\net5.0\testinglib.deps.json
+C:\Users\usufm\Desktop\Testing_1\testinglib\bin\Debug\net5.0\testinglib.dll
+C:\Users\usufm\Desktop\Testing_1\testinglib\bin\Debug\net5.0\ref\testinglib.dll
+C:\Users\usufm\Desktop\Testing_1\testinglib\bin\Debug\net5.0\testinglib.pdb
+C:\Users\usufm\Desktop\Testing_1\testinglib\obj\Debug\net5.0\testinglib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usufm\Desktop\Testing_1\testinglib\obj\Debug\net5.0\testinglib.AssemblyInfoInputs.cache
+C:\Users\usufm\Desktop\Testing_1\testinglib\obj\Debug\net5.0\testinglib.AssemblyInfo.cs
+C:\Users\usufm\Desktop\Testing_1\testinglib\obj\Debug\net5.0\testinglib.csproj.CoreCompileInputs.cache
+C:\Users\usufm\Desktop\Testing_1\testinglib\obj\Debug\net5.0\testinglib.dll
+C:\Users\usufm\Desktop\Testing_1\testinglib\obj\Debug\net5.0\ref\testinglib.dll
+C:\Users\usufm\Desktop\Testing_1\testinglib\obj\Debug\net5.0\testinglib.pdb
